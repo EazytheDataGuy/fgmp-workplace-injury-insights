@@ -26,9 +26,8 @@ We also found that folks who **wear their safety gear correctly** and those with
 
 **Insight:** Both the shop floor and the office need extra safety checks.
 
-Insight: Both the shop floor and the office need extra safety checks.
+![Injuries by Department](./images/department.PNG?raw=true)
 
-![Injuries by Department](https://raw.githubusercontent.com/EazytheDataGuy/fgmp-workplace-injury-insights/main/images/department.PNG)
 
 ![Relationship between department and injury type](./images/departcount.PNG)
 
