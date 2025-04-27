@@ -26,7 +26,7 @@ We also found that folks who **wear their safety gear correctly** and those with
 
 **Insight:** Both the shop floor and the office need extra safety checks.
 
-![Injuries by Department](https://www.dropbox.com/scl/fi/o6ua3l5s2dfk41924m0oj/department.PNG?rlkey=8zvg8lohwtwjfn96d2vevo4z3&st=apujrzc7&raw=1)
+![Injuries by Department](https://i.imgur.com/2yIvO6k.png)
 
 ![Relationship between department and injury type](./images/departcount.PNG)
 
