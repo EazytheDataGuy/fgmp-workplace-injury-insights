@@ -26,8 +26,8 @@ We also found that folks who **wear their safety gear correctly** and those with
 
 **Insight:** Both the shop floor and the office need extra safety checks.
 
-![Injuries by Department](images/department.PNG)
-![Relationship between department and injury type](images/departcount.PNG)
+![Injuries by Department](./images/department.PNG)
+![Relationship between department and injury type](./images/departcount.PNG)
 
 ---
 
@@ -57,7 +57,7 @@ We also found that folks who **wear their safety gear correctly** and those with
 - **1** cut
 
 **Insight:** Nearly half of the injuries involve backs or trips. Better housekeeping and safe lifting practices could prevent many cases.
-![job role vs injury type](images/jr_it.PNG)
+![job role vs injury type](./images/jr_it.PNG)
 ---
 
 ## 4. How Bad Are the Injuries and When Do They Happen?
@@ -68,10 +68,10 @@ We also found that folks who **wear their safety gear correctly** and those with
 - **10** injuries happened at **night**
 - **5** injuries in the **morning**
 - **5** injuries in the **afternoon**
-![Injury count by Severity](images/severity.PNG)
+![Injury count by Severity](./images/severity.PNG)
 
 **Insight:** Even though nights are quieter, they carry the biggest risk. Simple fixes like brighter lights and extra stretch breaks for night crews could make a big difference.
-![Injury count by Shift](images/shiftcount.PNG)
+![Injury count by Shift](./images/shiftcount.PNG)
 
 ---
 
@@ -96,7 +96,7 @@ When we group employees by how long they’ve worked, the average safety-gear sc
 - **11–14 years** on the job — score about **83**
 
 **Insight:** New hires really need hands-on help learning why and how to wear their safety gear properly.
-![Relationship between PPE compliance score and Years of experience](images/ppe_ye.PNG)
+![Relationship between PPE compliance score and Years of experience](./images/ppe_ye.PNG)
 ---
 
 ## 7. What We Recommend
